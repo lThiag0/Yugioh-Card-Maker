@@ -109,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[C# itextsharp](https://www.nuget.org/packages/iTextSharp/)**
 
-> Veja o arquivo  [packages.config](https://github.com/lThiag0/Yugioh-Card-Maker/tree/master/PRBIrelatorio/packages.config)
+> Veja o arquivo  [packages.config](https://github.com/lThiag0/Yugioh-Card-Maker/tree/master/Yugioh-Card-Maker/packages.config)
 
 #### [](https://github.com/lThiag0/Yugioh-Card-Maker#utilit%C3%A1rios)**Utilitários**
 
